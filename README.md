@@ -9,9 +9,9 @@
 Compile and Run the Program
 <p>To compile and run the program, follow these steps in your terminal:</p>
 <b>Compile the Program</b>:
-<pre><code>g++ -o bst bst.cpp</code></pre>
+<pre><code>g++ -o Binary_Tree.cpp</code></pre>
 <b>Run the Program</b>:
-<pre><code>./bst</code></pre>
+<pre><code>./Binary_Tree</code></pre>
 
 ### Usage
 <p>1. <b>Insertion of Nodes</b>:</p>
